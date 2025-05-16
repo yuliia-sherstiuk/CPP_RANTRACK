@@ -25,15 +25,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b68d6143-5ed8-4e8e-9a62-141a402f4b52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/job06/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/job07/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/job08/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/job09/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/job10/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/job11/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/job12/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/job13/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/job14/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jour_2/job01.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jour_3/job01/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jour_3/job02/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jour_3/job03/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jour_3/job04/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jour_3/job05/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jour_3/job06/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jour_3/job08/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jour_3/job09/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jour_3/job10/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,11 +88,6 @@
   }
 }</component>
   <component name="RunManager" selected="C/C++ File.job02.cpp">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="job01.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jour_1" TARGET_NAME="job01.cpp" CONFIG_NAME="job01.cpp">
       <option name="sourceFile" value="job01.cpp" />
       <method v="2">
@@ -122,7 +118,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747134087774</updated>
-      <workItem from="1747134089757" duration="9881000" />
+      <workItem from="1747134089757" duration="16549000" />
+      <workItem from="1747426959649" duration="2036000" />
     </task>
     <servers />
   </component>
